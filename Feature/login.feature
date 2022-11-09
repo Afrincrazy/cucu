@@ -1,5 +1,5 @@
 Feature: Login Validation
-@Smoketest @login
+@Smoketest 
 Scenario: Verify login in facebook
 Given user is in the facebook page
 When user enters username
